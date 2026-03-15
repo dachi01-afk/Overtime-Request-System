@@ -1,12 +1,12 @@
-# OvertimeFlow 🕒
+# Overtime Request System 🕒
 <!-- portfolio:desc -->
-**OvertimeFlow** is a streamlined management system designed to digitize and automate the overtime submission and approval process. It helps organizations maintain transparency, accuracy, and efficiency in tracking extra working hours.
+**Overtime Request System** is a streamlined management system designed to digitize and automate the overtime submission and approval process. It helps organizations maintain transparency, accuracy, and efficiency in tracking extra working hours.
 <!-- portfolio:desc:end -->
 
 ---
 
 ## 📌 Project Description
-Traditional overtime tracking via paper or manual spreadsheets is prone to errors and delays. **OvertimeFlow** provides a centralized platform where employees can submit overtime requests, and managers can review, approve, or reject them in real-time. This system ensures that all extra work is properly documented for payroll and compliance purposes.
+Traditional overtime tracking via paper or manual spreadsheets is prone to errors and delays. **Overtime Request System** provides a centralized platform where employees can submit overtime requests, and managers can review, approve, or reject them in real-time. This system ensures that all extra work is properly documented for payroll and compliance purposes.
 
 ## ✨ Key Features
 * **Request Submission:** Easy-to-use form for employees to log their overtime hours and reasons.
